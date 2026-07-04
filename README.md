@@ -13,17 +13,18 @@ This project analyzes applicant characteristics to identify the factors influenc
 ✔ Build prediction model
 
 ✔ Generate business recommendations
-DATASET:
-Records
 
+
+
+DATASET:
+
+Records
 4269
 
 Features
-
 13
 
 Target
-
 Loan Status
 
 
