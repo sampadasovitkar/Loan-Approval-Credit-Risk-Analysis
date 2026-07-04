@@ -4,6 +4,7 @@ End-to-end business analytics project analyzing loan approval patterns and predi
 Banks need to evaluate loan applications while minimizing financial risk.
 
 This project analyzes applicant characteristics to identify the factors influencing loan approval and develops a machine learning model capable of predicting approval decisions.
+
 ✔ Clean and preprocess the dataset
 
 ✔ Perform Exploratory Data Analysis
